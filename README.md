@@ -1,305 +1,336 @@
-# github
-Contribution: 2025-06-19 20:00
+<div align="center">
 
-Contribution: 2025-06-19 20:01
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Your%20Name&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-Contribution: 2025-06-19 20:02
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Product-Minded+Builder" alt="Typing SVG" />
 
-Contribution: 2025-06-19 20:03
+<br/>
 
-Contribution: 2025-06-19 20:04
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-Your%20City%2C%20Country-4B0082?style=flat-square" />
 
-Contribution: 2025-06-19 20:05
+<br/><br/>
 
-Contribution: 2025-06-19 20:06
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-7B68EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-5D3FD3?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Contribution: 2025-06-19 20:07
+<br/><br/>
 
-Contribution: 2025-06-20 20:00
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=8a2be2&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=8a2be2&labelColor=1a1a2e&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=8a2be2&labelColor=1a1a2e&logo=github&label=Stars" />
 
-Contribution: 2025-06-20 20:01
+</div>
 
-Contribution: 2025-06-20 20:02
+---
 
-Contribution: 2025-06-20 20:03
+## 🧠 About Me
 
-Contribution: 2025-06-20 20:04
+I'm a **Software Engineer** specializing in building scalable, production-grade systems at the intersection of **full-stack development** and **applied AI/ML**. My work spans designing distributed backend architectures, engineering ML-driven products, and shipping polished user-facing applications — with a strong **product engineering mindset** focused on reliability, performance, and measurable business impact.
 
-Contribution: 2025-06-20 20:05
+- 🔭 Currently engineering **AI-powered platforms** and **cloud-native systems** at scale
+- 🧩 Deep focus on **system design**, **distributed computing**, and **ML infrastructure**
+- ⚙️ Comfortable owning a feature end-to-end — from architecture to deployment to monitoring
+- 📈 Driven by measurable impact: performance gains, cost reduction, and user outcomes
+- 🌱 Continuously exploring the frontier of **LLMs**, **MLOps**, and applied research
 
-Contribution: 2025-06-20 20:06
+### 🎯 Open To
 
-Contribution: 2025-06-22 20:00
+<div align="center">
 
-Contribution: 2025-06-22 20:01
+| Full-Time Roles | Freelance / Contract | Open Source | Research Collaboration |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
 
-Contribution: 2025-06-22 20:02
+</div>
 
-Contribution: 2025-06-22 20:03
+---
 
-Contribution: 2025-06-22 20:04
+## 🛠️ Tech Stack
 
-Contribution: 2025-06-22 20:05
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark" />
 
-Contribution: 2025-06-23 20:00
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
 
-Contribution: 2025-06-23 20:01
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark" />
 
-Contribution: 2025-06-23 20:02
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,linux&theme=dark" />
 
-Contribution: 2025-06-23 20:03
+---
 
-Contribution: 2025-06-23 20:04
+## 🤖 AI / ML Expertise
 
-Contribution: 2025-06-23 20:05
+<div align="center">
 
-Contribution: 2025-06-24 20:00
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised & unsupervised learning, feature engineering, model evaluation, scikit-learn |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | CNNs, RNNs, and Transformer architectures with PyTorch and TensorFlow |
+| **Natural Language Processing** | ⭐⭐⭐⭐⭐ | LLM fine-tuning, embeddings, RAG pipelines, transformer-based inference |
+| **MLOps** | ⭐⭐⭐⭐☆ | Model versioning, CI/CD for ML, MLflow, production model serving |
+| **Generative AI** | ⭐⭐⭐⭐⭐ | Prompt engineering, LangChain, vector databases, agentic workflows |
+| **Computer Vision** | ⭐⭐⭐☆☆ | Image classification and object detection with OpenCV and YOLO |
 
-Contribution: 2025-06-25 20:00
+</div>
 
-Contribution: 2025-06-26 20:00
+---
 
-Contribution: 2025-06-27 20:00
+## 🚀 Featured Projects
 
-Contribution: 2025-06-27 20:01
+<details>
+<summary><b>🔹 AI-Powered Analytics Platform</b></summary>
+<br/>
 
-Contribution: 2025-06-27 20:02
+A real-time analytics platform that leverages machine learning to surface predictive insights from streaming business data, serving enterprise dashboards with sub-second query latency.
 
-Contribution: 2025-06-28 20:00
+| Category | Details |
+|---|---|
+| **Stack** | React, Node.js, Python, FastAPI, PostgreSQL, Redis, Docker |
+| **Scale** | 2M+ events processed daily across 50+ enterprise clients |
+| **Performance** | p95 API latency reduced from 800ms to 120ms |
+| **Security** | OAuth2, role-based access control, encryption at rest |
+| **Impact** | Reduced client decision-making time by 40% |
+| **Repository** | [github.com/yourusername/ai-analytics-platform](https://github.com/yourusername/ai-analytics-platform) |
 
-Contribution: 2025-06-28 20:01
+Designed the ingestion pipeline, feature store, and model-serving layer from the ground up, enabling near real-time inference on streaming data while keeping infrastructure costs under control through autoscaling and caching strategies.
 
-Contribution: 2025-06-28 20:02
+</details>
 
-Contribution: 2025-06-28 20:03
+<details>
+<summary><b>🔹 Distributed E-Commerce Microservices</b></summary>
+<br/>
 
-Contribution: 2025-06-28 20:04
+A cloud-native, event-driven microservices architecture powering a high-traffic e-commerce platform, built for horizontal scalability and fault isolation.
 
-Contribution: 2025-06-28 20:05
+| Category | Details |
+|---|---|
+| **Stack** | Go, Node.js, gRPC, Kafka, MongoDB, Kubernetes, AWS |
+| **Scale** | 10K+ concurrent users across 15+ independently deployed services |
+| **Performance** | 99.95% uptime with automated failover |
+| **Security** | JWT-based auth, API gateway rate limiting, secrets management via Vault |
+| **Impact** | Enabled independent team deployments, cutting release cycles by 60% |
+| **Repository** | [github.com/yourusername/ecommerce-microservices](https://github.com/yourusername/ecommerce-microservices) |
 
-Contribution: 2025-06-28 20:06
+Led the migration from a monolithic architecture to independently deployable services, introducing an event bus for asynchronous communication and a service mesh for observability and traffic management.
 
-Contribution: 2025-06-28 20:07
+</details>
 
-Contribution: 2025-06-28 20:08
+<details>
+<summary><b>🔹 Real-Time Collaborative Chat Application</b></summary>
+<br/>
 
-Contribution: 2025-06-29 20:00
+A WebSocket-based real-time messaging application supporting group chats, presence indicators, and encrypted direct messages.
 
-Contribution: 2025-06-29 20:01
+| Category | Details |
+|---|---|
+| **Stack** | React, Socket.io, Node.js, Redis Pub/Sub, PostgreSQL |
+| **Scale** | 50K+ registered users, 500K+ messages processed monthly |
+| **Performance** | Message delivery latency under 100ms at scale |
+| **Security** | End-to-end encryption, rate-limited connections |
+| **Impact** | 4.7/5 average user rating, featured in a university tech showcase |
+| **Repository** | [github.com/yourusername/realtime-chat-app](https://github.com/yourusername/realtime-chat-app) |
 
-Contribution: 2025-06-29 20:02
+Built a horizontally scalable WebSocket layer using Redis Pub/Sub for cross-instance message broadcasting, allowing the application to scale seamlessly behind a load balancer.
 
-Contribution: 2025-06-29 20:03
+</details>
 
-Contribution: 2025-06-29 20:04
+<details>
+<summary><b>🔹 MLOps Pipeline for Model Deployment</b></summary>
+<br/>
 
-Contribution: 2025-06-29 20:05
+An end-to-end MLOps pipeline automating model training, validation, versioning, and deployment for production ML workloads.
 
-Contribution: 2025-06-29 20:06
+| Category | Details |
+|---|---|
+| **Stack** | Python, MLflow, Docker, Kubernetes, GitHub Actions, AWS SageMaker |
+| **Scale** | Supports 20+ production models across multiple teams |
+| **Performance** | Deployment time reduced from days to under an hour |
+| **Security** | Model artifact signing, isolated inference environments |
+| **Impact** | Cut model iteration cycle time by 70%, improving experimentation velocity |
+| **Repository** | [github.com/yourusername/mlops-pipeline](https://github.com/yourusername/mlops-pipeline) |
 
-Contribution: 2025-06-29 20:07
+Engineered a fully automated CI/CD pipeline for machine learning, integrating model validation gates, canary deployments, and automated rollback to ensure safe, reliable releases of production ML models.
 
-Contribution: 2025-06-29 20:08
+</details>
 
-Contribution: 2025-07-03 20:00
+---
 
-Contribution: 2025-07-03 20:01
+## 💼 Experience
 
-Contribution: 2025-07-03 20:02
+### Software Engineer II · **Tech Company Inc.**
+`Jan 2024 — Present`
 
-Contribution: 2025-07-03 20:03
+Building and scaling backend systems and ML-powered features for a product used by millions of users, working across the full stack from infrastructure to UI.
 
-Contribution: 2025-07-03 20:04
+- Architected and shipped a microservice handling 5M+ daily requests at 99.9% uptime
+- Led integration of an LLM-based recommendation engine, increasing engagement by 18%
+- Mentored 3 junior engineers and established code review and testing standards for the team
+- Collaborated cross-functionally with product and design to ship 2 major features per quarter
 
-Contribution: 2025-07-03 20:05
+`TypeScript` `Python` `AWS` `Kubernetes` `PostgreSQL` `GraphQL`
 
-Contribution: 2025-07-04 20:00
+<br/>
 
-Contribution: 2025-07-04 20:01
+### Software Engineer Intern · **Another Tech Company**
+`May 2023 — Aug 2023`
 
-Contribution: 2025-07-04 20:02
+Contributed to the core platform team, building internal tooling and optimizing critical data pipelines.
 
-Contribution: 2025-07-05 20:00
+- Optimized a data pipeline, reducing processing time by 35% through parallelization
+- Built an internal dashboard adopted by 4 engineering teams for real-time monitoring
+- Wrote unit and integration tests, improving codebase coverage from 62% to 85%
 
-Contribution: 2025-07-05 20:01
+`Python` `Django` `Docker` `Airflow` `React`
 
-Contribution: 2025-07-05 20:02
+---
 
-Contribution: 2025-07-08 20:00
+## 🏆 Achievements
 
-Contribution: 2025-07-08 20:01
+<div align="center">
 
-Contribution: 2025-07-08 20:02
+| Recognition | Details |
+|---|---|
+| 🥇 **National Level Hackathon Winner** | 1st place among 500+ teams, built an AI-driven accessibility tool |
+| 🎓 **Dean's List** | Recognized for academic excellence across 4 consecutive semesters |
+| 📄 **Published Research Paper** | Co-authored a paper on efficient transformer inference, presented at a student research symposium |
+| 💡 **Open Source Contributor** | 500+ contributions across widely used open-source repositories |
+| 🚀 **Top Performer Award** | Recognized for outstanding impact during summer internship |
 
-Contribution: 2025-07-08 20:03
+</div>
 
-Contribution: 2025-07-10 20:00
+---
 
-Contribution: 2025-07-12 20:00
+## 📜 Certifications
 
-Contribution: 2025-07-12 20:01
+**AWS**
+<br/>
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-8A2BE2?style=flat-square&logo=amazonaws&logoColor=white" />
 
-Contribution: 2025-07-12 20:02
+**Oracle**
+<br/>
+<img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%20Programmer-6A5ACD?style=flat-square&logo=oracle&logoColor=white" />
 
-Contribution: 2025-07-13 20:00
+**NPTEL**
+<br/>
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-7B68EE?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-7B68EE?style=flat-square&logo=googlescholar&logoColor=white" />
 
-Contribution: 2025-07-13 20:01
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-4B0082?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-4B0082?style=flat-square&logo=cisco&logoColor=white" />
 
-Contribution: 2025-07-13 20:02
+---
 
-Contribution: 2025-07-13 20:03
+## 💻 Coding Profiles
 
-Contribution: 2025-07-14 20:00
+<div align="center">
 
-Contribution: 2025-07-14 20:01
+<a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/yourusername"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-6A5ACD?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/yourusername"><img src="https://img.shields.io/badge/HackerRank-5%20Star-7B68EE?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/yourusername"><img src="https://img.shields.io/badge/CodeChef-4%20Star-4B0082?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-Contribution: 2025-07-14 20:02
+</div>
 
-Contribution: 2025-07-14 20:03
+---
 
-Contribution: 2025-07-14 20:04
+## 📊 GitHub Analytics
 
-Contribution: 2025-07-14 20:05
+<div align="center">
 
-Contribution: 2025-07-14 20:06
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B388FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="49%" />
 
-Contribution: 2025-07-14 20:07
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B388FF&text_color=c9d1d9&langs_count=10" width="49%" />
 
-Contribution: 2025-07-14 20:08
+</div>
 
-Contribution: 2025-07-15 20:00
+---
 
-Contribution: 2025-07-15 20:01
+## 🏅 GitHub Trophies
 
-Contribution: 2025-07-16 20:00
+<div align="center">
 
-Contribution: 2025-07-17 20:00
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
-Contribution: 2025-07-17 20:01
+</div>
 
-Contribution: 2025-07-17 20:02
+---
 
-Contribution: 2025-07-18 20:00
+## 📈 Contribution Activity
 
-Contribution: 2025-07-18 20:01
+<div align="center">
 
-Contribution: 2025-07-18 20:02
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=8A2BE2&point=E0AAFF" width="95%" />
 
-Contribution: 2025-07-19 20:00
+</div>
 
-Contribution: 2025-07-19 20:01
+---
 
-Contribution: 2025-07-19 20:02
+## 🐍 Contribution Snake
 
-Contribution: 2025-07-19 20:03
+<div align="center">
 
-Contribution: 2025-07-20 20:00
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="95%" />
 
-Contribution: 2025-07-20 20:01
+</div>
 
-Contribution: 2025-07-20 20:02
+> Generated via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repository to activate this automatically.
 
-Contribution: 2025-07-20 20:03
+---
 
-Contribution: 2025-07-20 20:04
+## 🎯 Current Focus
 
-Contribution: 2025-07-20 20:05
+```yaml
+current_focus:
+  learning:
+    - Advanced system design & distributed architectures
+    - Large Language Model fine-tuning and evaluation
+    - Rust for high-performance systems programming
+  building:
+    - An open-source RAG framework for production use cases
+    - A personal MLOps toolkit for rapid experimentation
+  exploring:
+    - Agentic AI workflows and multi-agent orchestration
+    - Edge computing and on-device inference
+  open_to:
+    - Full-time Software Engineering / AI Engineering roles
+    - Open-source collaboration
+    - Technical writing and mentorship
+```
 
-Contribution: 2025-07-20 20:06
+---
 
-Contribution: 2025-07-20 20:07
+## 🤝 Connect With Me
 
-Contribution: 2025-07-20 20:08
+<div align="center">
 
-Contribution: 2025-07-21 20:00
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-7B68EE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-5D3FD3?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-Contribution: 2025-07-21 20:01
+</div>
 
-Contribution: 2025-07-21 20:02
+---
 
-Contribution: 2025-07-21 20:03
+<div align="center">
 
-Contribution: 2025-07-22 20:00
+*"Great software is not written, it is engineered — with precision, empathy, and relentless iteration."*
 
-Contribution: 2025-07-22 20:01
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
-Contribution: 2025-07-22 20:02
-
-Contribution: 2025-07-22 20:03
-
-Contribution: 2025-07-22 20:04
-
-Contribution: 2025-07-22 20:05
-
-Contribution: 2025-07-22 20:06
-
-Contribution: 2025-07-22 20:07
-
-Contribution: 2025-07-22 20:08
-
-Contribution: 2025-07-23 20:00
-
-Contribution: 2025-07-23 20:01
-
-Contribution: 2025-07-23 20:02
-
-Contribution: 2025-07-23 20:03
-
-Contribution: 2025-07-23 20:04
-
-Contribution: 2025-07-25 20:00
-
-Contribution: 2025-07-25 20:01
-
-Contribution: 2025-07-25 20:02
-
-Contribution: 2025-07-25 20:03
-
-Contribution: 2025-07-26 20:00
-
-Contribution: 2025-07-26 20:01
-
-Contribution: 2025-07-26 20:02
-
-Contribution: 2025-07-26 20:03
-
-Contribution: 2025-07-26 20:04
-
-Contribution: 2025-07-26 20:05
-
-Contribution: 2025-07-26 20:06
-
-Contribution: 2025-07-26 20:07
-
-Contribution: 2025-07-26 20:08
-
-Contribution: 2025-07-26 20:09
-
-Contribution: 2025-07-27 20:00
-
-Contribution: 2025-07-27 20:01
-
-Contribution: 2025-07-27 20:02
-
-Contribution: 2025-07-27 20:03
-
-Contribution: 2025-07-27 20:04
-
-Contribution: 2025-07-27 20:05
-
-Contribution: 2025-07-27 20:06
-
-Contribution: 2025-07-27 20:07
-
-Contribution: 2025-07-27 20:08
-
-Contribution: 2025-07-27 20:09
-
-Contribution: 2025-07-30 20:00
-
-Contribution: 2025-07-30 20:01
-
-Contribution: 2025-07-30 20:02
-
-Contribution: 2025-07-30 20:03
-
+</div>
